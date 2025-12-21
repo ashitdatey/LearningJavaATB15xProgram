@@ -10,6 +10,5 @@ public class Lab017_Variables {
         // byte age_c = 128;
         short s = 128;
 
-
     }
 }
