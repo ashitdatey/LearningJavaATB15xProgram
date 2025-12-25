@@ -18,5 +18,8 @@ public class Lab022_Numerics_Data_Types {
 
         double d = 3.12345678987;
 
+
+
+
     }
 }
