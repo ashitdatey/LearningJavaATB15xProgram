@@ -6,8 +6,8 @@ public interface Lab_IF_ELSEIF_ELSE {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int age = scanner.nextInt();
-        String name  = scanner.next();
-
+       // String name  = scanner.next();
+        System.out.println(age);
         if (age > 34) {
             System.out.println("age > 34");
         } else if (age < 34) {

@@ -13,9 +13,5 @@ public class Lab068_Real_Age_Classification {
         System.out.println(result);
 
 
-
-
-
-
     }
 }

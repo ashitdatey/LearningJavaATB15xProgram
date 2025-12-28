@@ -7,6 +7,7 @@ public class Lab61_Extra_Example_Char {
 
         int num = 66; // Narrow
         char letter = (char) num;
+        System.out.println(letter);
 
     }
 }

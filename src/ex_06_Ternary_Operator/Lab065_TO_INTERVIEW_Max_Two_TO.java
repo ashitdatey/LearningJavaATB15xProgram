@@ -6,7 +6,7 @@ public class Lab065_TO_INTERVIEW_Max_Two_TO {
         int y = 20;
         int max = x > y ? x : y;
         int min = x > y ? y : x;
-        System.out.println(max);
-        System.out.println(min);
+        System.out.println("Max is " + max);
+        System.out.println("Min is " + min);
     }
 }
