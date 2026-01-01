@@ -17,5 +17,8 @@ public class Lab_Multi_UserInput {
         int side3 = scanner.nextInt();
 
         System.out.println(side1+side2+side3);
+
+        scanner.close();
     }
+
 }

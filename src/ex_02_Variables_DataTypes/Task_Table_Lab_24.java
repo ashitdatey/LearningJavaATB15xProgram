@@ -1,6 +1,6 @@
 package ex_02_Variables_DataTypes;
 
-public class Task_Lab_24 {
+public class Task_Table_Lab_24 {
     public static void main(String[] args) {
         int table = 9;
         System.out.printf("%d*1=%d%n", table, table);
