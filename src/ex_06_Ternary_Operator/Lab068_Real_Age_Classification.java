@@ -5,6 +5,10 @@ public class Lab068_Real_Age_Classification {
     // You need to check if the user is minor, adult or senior citizen.
     public static void main(String[] args) {
         // User will give you input via the commandline.
+        if (args.length == 0) {
+            System.out.println("Please provide age as a command line argument");
+            return;
+        }
         String age_input_string = args[0];
         System.out.println(age_input_string instanceof String);
         int age_user_input = Integer.parseInt(age_input_string); // 25
