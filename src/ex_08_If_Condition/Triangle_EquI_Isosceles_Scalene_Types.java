@@ -2,7 +2,7 @@ package ex_08_If_Condition;
 
 import java.util.Scanner;
 
-public class Exercise01 {
+public class Triangle_EquI_Isosceles_Scalene_Types {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter side 1");
